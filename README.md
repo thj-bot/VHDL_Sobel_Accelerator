@@ -13,9 +13,13 @@ Python ile hazırlanan referans model (Golden Model) ile donanım çıktısı ta
 KLASÖRLERİN İÇERİĞİ
 
 src: Ana donanım kodları (VHDL)
+
 sim: Test ve simülasyon dosyası
+
 model: Python referans kodları ve giriş resmi
+
 output: Donanımdan çıkan sonuç verileri ve final resmi
+
 docs: Donanım raporları ve görseller
 
 NASIL ÇALIŞTIRILIR
