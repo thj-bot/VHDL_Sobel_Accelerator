@@ -1,4 +1,4 @@
-#Sobel Edge Detection FPGA Accelerator
+#SOBEL EDGE DETECTİON FPGA ACCELERATOR
 Bu proje, görüntü üzerindeki kenarları tespit eden bir algoritmanın (Sobel) FPGA üzerinde çok düşük kaynak harcayarak çalışması için tasarlanmıştır.
 
 TEMEL ÖZELLİKLER
